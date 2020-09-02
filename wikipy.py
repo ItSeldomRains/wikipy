@@ -17,6 +17,6 @@ class Raven(Client):
            
 
 
-client = Raven("SehnaZheiyt@gmail.com", "iwhispheryou0p3n")
+client = Raven("username", "password")
 client.listen()
 
